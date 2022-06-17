@@ -1,10 +1,10 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Test Analysis
 
-### Problem Statement
+## Problem Statement
 
 High school students preparing for college are typically getting ready to take the SAT, and many don’t know what score to aim for and whether it may be worth it to retake it. This project aims to identify any correlation between SAT score and admittance rates, and any other trends within the previous years SAT scores.
 
-### Data Dictionary
+## Data Dictionary
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -35,11 +35,11 @@ High school students preparing for college are typically getting ready to take t
 |**sat_75_percentile**|*float*|sat_act_by_college|The 75th percentile for the SAT scores.|
 
 
-### Summary of Analysis
+## Summary of Analysis
 
 I first looked at the participation rates for 2017-2019 and total SAT score for those same years to see if I could spot any trends. Then I delved into the SAT scores by major to see if anything there stood out for my problem statement. Lastly, I went through the SAT scores by college data set and found some interesting correlations there.
 
-### Conclusions/Recommendations
+## Conclusions/Recommendations
 
 Based on my exploration of the data, the key takeaways I discovered were that SAT participation rates were mostly consistent between 2017-2019 with the exception of a few states, participation rates were negatively correlated with total SAT scores (as participation rates increased, total scores decreased), and the recent total SAT scores had a negative correlation with recent acceptance rates. 
 
